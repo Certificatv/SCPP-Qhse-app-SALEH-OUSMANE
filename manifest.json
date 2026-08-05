@@ -1,0 +1,56 @@
+{
+  "name": "SCPP — HSE Control",
+  "short_name": "SCPP HSE",
+  "description": "Application de gestion des risques et anomalies HSE de la SCPP (Société Congolaise de Peinture Pétrolière) — échafaudage, peinture, sablage, mécanique, électricité, soudure, engins, manutention.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#12141c",
+  "theme_color": "#022562",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-mobile-dashboard.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tableau de bord SCPP HSE Control"
+    },
+    {
+      "src": "screenshot-mobile-new-anomaly.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Création d'une fiche d'anomalie"
+    },
+    {
+      "src": "screenshot-desktop-dashboard.png",
+      "sizes": "1440x900",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Vue d'ensemble sur ordinateur"
+    }
+  ]
+}
